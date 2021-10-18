@@ -1,0 +1,37 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+}
+
+.stuff {
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Apple Legacy Chevron","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+
+/* .footerTwo {
+    border-top: 1px solid gray ;
+} */
+
+/* <div className="footerTwo">
+<ul className= "space">
+    <li><strong>Stuff</strong></li>
+    <li>Mac</li>
+    <li>iPad</li>
+    <li>iPhone</li>
+    <li>Watch</li>
+    <br></br>
+    <li><strong>Stuff</strong></li>
+    <li>TV</li>
+    <li>AirPods</li>
+    <li>HomePod</li>
+    <li>AirTag</li>
+    <li>Accessories</li>
+</ul>
+</div> */
