@@ -7,7 +7,7 @@
 
 ## Description
 
-This is a practice app with react just for fun, nothing will be depolyed to the web!
+This is a practice app with react just for fun, nothing is/will-be depoly to the web!
 
 
 ## Table of Contents 
