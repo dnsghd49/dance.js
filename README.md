@@ -20,7 +20,7 @@ This is a practice app with react just for fun, nothing will be depolyed to the 
 
 ## Screenshot
 
-![ScreenShot](https://raw.github.com/dnsghd49/dance.js/blob/main/img/screenshot.png)
+![ScreenShot](https://github.com/dnsghd49/dance.js/blob/main/img/screenshot.png)
 
 ## Installation
 
