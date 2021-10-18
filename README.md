@@ -3,7 +3,6 @@
   [![Build Status](https://img.shields.io/github/forks/dnsghd49/dance.js.svg)](https://github.com/dnsghd49/dance.js/network/)
   [![Build Status](https://img.shields.io/github/stars/dnsghd49/dance.js.svg)](https://github.com/dnsghd49/dance.js/)
   [![GitHub issues](https://img.shields.io/github/issues/dnsghd49/dance.js.svg)](https://GitHub.com/dnsghd49/dance.js/issues/)
-  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 
 ## Description
