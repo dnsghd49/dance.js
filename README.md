@@ -27,6 +27,8 @@ This is a practice app with react just for fun, nothing will be depolyed to the 
 To install necessary dependencies, run the following command:
 
 ```
+cd dance.js
+
 cd practice-app
 
 npm install
